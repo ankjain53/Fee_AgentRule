@@ -1,0 +1,2689 @@
+2018-08-02 12:57:47,891 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 12:58:28,024 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 12:58:30,385 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 13:01:20,342 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 13:01:45,900 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 13:01:48,047 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 13:01:58,129 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 13:02:04,227 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-02 13:02:08,355 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-02 13:04:40,668 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 13:04:40,738 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 13:04:51,273 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 15:03:11,921 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 15:03:31,728 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 15:03:31,866 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 15:03:42,619 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 15:03:53,823 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-02 15:04:07,759 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-02 15:04:17,497 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 15:04:31,137 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 15:05:01,326 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:05:10,451 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-02 15:05:26,757 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-02 15:05:28,923 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 15:05:42,551 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 15:06:12,459 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:06:21,606 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-02 15:06:40,799 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-02 15:06:42,986 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 15:06:56,556 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 15:07:26,539 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:07:35,676 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-02 15:07:53,088 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-02 15:07:53,157 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 15:08:06,726 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 15:08:36,696 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:08:45,842 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-02 15:09:03,261 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-02 15:09:05,436 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 15:09:19,037 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 15:09:48,948 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:09:58,109 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-02 15:10:15,563 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-02 15:10:17,761 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 15:10:43,641 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 15:11:56,220 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-02 15:11:56,221 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-02 15:12:19,860 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 15:12:32,147 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-02 15:12:50,009 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 15:12:52,268 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 15:13:02,341 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 15:13:08,144 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-02 15:13:12,267 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-02 15:30:43,258 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 17:13:25,248 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 17:13:42,780 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 17:13:42,862 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 17:13:53,771 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 17:14:04,154 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-02 17:14:13,574 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-02 17:14:13,642 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:14:36,676 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 17:14:45,843 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-02 17:15:06,577 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-02 17:15:08,740 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 17:15:09,741 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-02 17:15:11,936 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-02 17:15:14,094 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-02 17:15:25,268 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-02 17:15:37,698 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-02 17:15:37,752 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:16:00,654 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 17:16:09,879 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-02 17:16:14,880 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-02 17:16:40,732 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 17:16:42,888 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-02 17:16:43,076 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-02 17:16:53,221 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-02 17:17:05,639 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-02 17:17:05,762 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:17:28,663 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 17:17:37,807 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-02 17:18:03,751 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-02 17:18:05,896 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-02 17:18:07,061 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-02 17:18:11,198 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-02 17:18:13,957 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-02 17:19:18,586 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 17:19:36,661 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 17:19:36,760 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 17:19:47,230 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 17:19:57,645 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-02 17:20:06,903 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-02 17:20:06,978 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:20:29,865 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 17:20:39,012 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-02 17:20:59,807 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-02 17:20:59,877 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:21:00,878 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-02 17:21:03,026 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-02 17:21:05,182 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-02 17:21:16,313 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-02 17:21:28,735 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-02 17:21:28,793 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:21:51,638 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 17:22:00,792 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-02 17:22:05,793 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-02 17:22:29,500 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 17:22:31,715 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-02 17:22:31,897 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-02 17:22:42,067 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-02 17:23:00,792 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 17:23:03,053 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 17:23:13,124 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 18:03:45,679 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 18:04:03,821 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:04:03,914 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:04:14,318 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 18:04:24,685 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-02 18:04:34,045 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-02 18:04:35,756 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:04:51,209 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:05:21,554 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:05:30,718 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-02 18:05:46,870 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-02 18:05:46,990 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:06:00,408 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:06:30,386 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:06:39,525 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-02 18:06:58,699 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-02 18:06:58,832 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:07:12,209 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:07:42,068 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:07:51,200 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-02 18:08:08,616 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-02 18:08:08,685 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:08:22,155 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:08:52,129 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:09:01,297 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-02 18:09:18,637 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-02 18:09:18,752 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:09:32,149 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:10:02,135 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:10:11,284 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-02 18:10:28,635 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-02 18:10:28,696 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:10:54,529 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-02 18:12:07,014 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-02 18:12:07,015 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-02 18:12:30,738 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-02 18:12:43,066 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-02 18:12:59,510 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:13:01,743 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:13:11,828 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 18:13:17,615 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-02 18:13:21,823 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-02 18:13:33,691 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-02 18:13:46,490 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-02 18:16:28,444 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:16:28,533 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:16:38,951 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-02 18:16:49,268 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-02 18:16:58,563 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-02 18:17:12,175 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-02 18:17:40,686 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-02 18:20:23,666 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 18:20:43,440 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:20:45,637 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:20:55,700 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 18:21:01,129 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-02 18:21:05,259 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-02 18:21:16,989 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-02 18:21:29,796 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-02 18:21:58,426 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:21:58,501 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:25:25,450 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-02 18:25:47,578 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-02 18:25:49,890 - feedzai_AM_Login -INFO - Password Entered
+2018-08-02 18:26:00,008 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-02 18:26:05,434 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-02 18:26:09,562 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-02 18:26:21,345 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-02 18:26:34,090 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-02 18:26:54,977 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 11:23:48,803 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 11:31:43,454 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 11:32:00,013 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 11:32:00,096 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 11:32:10,527 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 11:32:20,842 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 11:32:30,110 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 11:32:30,180 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:32:43,796 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:33:13,607 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:33:22,734 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 11:33:38,818 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 11:33:38,933 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:33:52,312 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:34:22,225 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:34:31,373 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 11:34:50,476 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 11:34:50,552 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:35:03,930 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:35:33,846 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:35:43,003 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 11:36:00,446 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 11:36:00,509 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:36:13,919 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:36:43,739 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:36:52,880 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 11:37:10,240 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 11:37:10,320 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:37:23,723 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:37:53,517 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:38:02,644 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 11:38:19,982 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 11:38:20,045 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:38:45,893 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 11:39:58,463 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 11:39:58,464 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 11:40:22,127 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 11:40:34,359 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 11:40:50,690 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 11:40:52,895 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 11:41:02,971 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 11:41:08,492 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 11:41:12,598 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 11:41:24,289 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 11:41:37,090 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 11:42:11,429 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 11:44:39,341 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 11:44:39,422 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 11:44:49,805 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 11:45:00,110 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 11:45:09,380 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 11:45:23,074 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:45:51,543 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 11:46:05,154 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:46:43,720 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 11:47:07,423 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:47:45,993 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 11:48:09,693 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 11:48:48,894 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 11:49:12,622 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:04:36,056 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 12:04:53,143 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:04:53,226 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:05:03,776 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:05:14,082 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:05:23,338 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:05:23,449 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:05:37,063 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:06:06,970 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:06:16,110 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 12:06:32,167 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 12:06:32,273 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:06:45,795 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:07:15,720 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:07:24,876 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 12:07:44,128 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:07:44,165 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:07:57,675 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:08:27,563 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:08:36,700 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 12:08:54,044 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 12:08:54,147 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:09:07,620 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:09:37,491 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:09:46,594 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 12:10:03,984 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 12:10:04,081 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:10:17,466 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:10:47,388 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:10:56,523 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 12:11:13,892 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 12:11:13,995 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:11:39,874 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:12:52,416 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 12:12:52,417 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 12:13:16,092 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:13:28,312 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 12:13:45,753 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:13:47,938 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:13:57,999 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 12:14:06,031 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 12:14:10,136 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 12:14:21,752 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 12:14:34,520 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 12:15:08,860 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 12:15:24,516 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 12:18:01,083 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:18:01,174 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:18:11,566 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:18:21,935 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:18:31,252 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:18:44,862 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:20:21,309 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 12:20:37,831 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:20:37,917 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:20:48,389 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:20:58,774 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:21:14,276 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 12:21:31,535 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:21:31,609 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:21:42,140 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:21:52,458 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:22:01,614 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:22:01,660 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:22:14,975 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:22:44,612 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:22:53,734 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 12:23:09,637 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 12:23:09,669 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:23:23,060 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:23:52,942 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:24:02,103 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 12:24:21,220 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:24:21,281 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:24:34,707 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:25:04,594 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:25:13,734 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 12:25:31,092 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 12:25:31,174 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:25:44,617 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:26:14,490 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:26:23,622 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 12:26:41,001 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 12:26:41,127 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:27:28,483 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 12:27:45,002 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:27:45,091 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:27:55,560 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:28:05,850 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:28:15,110 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:28:15,182 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:28:28,599 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:28:58,679 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:29:07,820 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 12:29:23,880 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 12:29:23,987 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:29:37,410 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:30:07,361 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:30:16,506 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 12:30:35,638 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:30:35,698 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:30:49,125 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:31:19,016 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:31:28,155 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 12:31:45,512 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 12:31:45,587 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:31:58,997 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:32:28,952 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:32:38,087 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 12:32:55,480 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 12:32:55,614 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:33:09,026 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:33:38,942 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:33:48,063 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 12:34:05,325 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 12:34:05,353 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:34:31,233 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:35:43,751 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 12:35:43,752 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 12:36:07,474 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:36:19,693 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 12:36:36,714 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:36:38,922 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:36:48,998 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 12:36:54,601 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 12:36:58,714 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 12:37:10,432 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 12:37:23,222 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 12:37:57,581 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 12:38:13,216 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 12:38:58,356 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 12:39:14,009 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 12:39:25,353 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 12:39:35,802 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:39:35,874 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:39:36,260 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 12:39:50,436 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 12:40:10,034 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-03 12:40:17,593 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 12:40:37,282 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-03 12:40:54,230 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:40:54,310 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:41:04,732 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:41:15,062 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:41:24,326 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:41:37,951 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:42:06,493 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:42:20,019 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:42:48,550 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:43:38,051 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:43:51,631 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:44:20,216 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:44:33,837 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:45:02,444 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:45:16,018 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:46:35,580 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 12:47:05,170 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 12:51:29,813 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 12:51:46,220 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 12:51:46,295 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 12:51:56,696 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 12:52:06,988 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 12:52:16,256 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 12:52:16,332 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:52:29,880 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:52:59,825 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:53:08,963 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 12:53:25,025 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 12:53:25,118 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:53:38,703 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:54:08,736 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:54:17,863 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 12:54:37,025 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 12:54:37,138 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:54:50,729 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:55:20,759 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:55:29,917 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 12:55:47,264 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 12:55:47,373 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:56:00,958 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:56:30,828 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:56:39,957 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 12:56:57,298 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 12:56:57,398 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:57:10,940 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 12:57:40,828 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:57:49,954 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 12:58:07,279 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 12:58:07,354 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 12:58:33,193 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 12:59:45,722 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 12:59:45,723 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 13:00:09,400 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 13:00:21,623 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 13:00:37,694 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 13:00:39,887 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 13:00:49,963 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 13:00:55,444 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 13:00:59,548 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 13:01:11,222 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 13:01:23,968 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 13:01:58,346 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 13:02:13,911 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 13:02:58,931 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 13:03:14,560 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 13:03:25,898 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 13:03:36,344 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 13:03:36,418 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 13:03:36,818 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 13:03:50,994 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 13:04:10,671 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-03 13:04:18,187 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 13:04:37,743 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-03 13:04:54,667 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 13:04:54,752 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 13:05:05,172 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 13:05:15,508 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 13:05:24,760 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 13:05:38,328 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 13:06:06,867 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 13:06:20,498 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 13:06:50,142 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 13:07:03,708 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 13:07:32,256 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 13:07:45,854 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 13:08:14,429 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 13:08:28,018 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 13:09:47,585 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 13:10:17,492 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 14:45:02,063 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 14:45:19,804 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 14:45:19,893 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 14:45:30,543 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 14:45:40,846 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 14:45:50,092 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 14:45:50,164 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 14:46:03,825 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 14:46:33,615 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 14:46:42,759 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 14:50:48,018 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 14:51:04,034 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 14:51:04,123 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 14:51:14,531 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 14:51:24,814 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 14:51:34,031 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 14:51:34,106 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 14:51:47,519 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 14:52:17,177 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 14:52:26,276 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 14:54:50,081 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 14:55:05,628 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 14:55:05,731 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 14:55:16,177 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 14:55:26,412 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 14:55:35,633 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 14:55:35,704 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 14:55:49,055 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 14:56:18,840 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 14:56:27,961 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 14:59:02,755 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 14:59:18,109 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 14:59:18,199 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 14:59:28,623 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 14:59:38,942 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 14:59:48,176 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 14:59:48,244 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:00:01,645 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:00:31,394 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:00:40,545 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 15:04:35,025 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 15:04:51,944 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:04:52,024 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:05:02,614 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:05:12,936 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:05:22,181 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 15:05:22,308 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:05:35,696 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:06:05,539 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:06:14,688 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 15:07:24,064 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 15:07:39,954 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:07:40,031 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:07:50,444 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:08:00,715 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:08:09,944 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 15:08:10,009 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:08:23,402 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:08:53,068 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:09:02,190 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 15:09:21,580 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 15:09:21,632 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:09:35,148 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:10:04,887 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:10:13,985 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 15:10:35,556 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 15:10:35,613 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:10:49,126 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:11:18,846 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:11:28,003 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 15:11:47,419 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 15:11:47,446 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:12:00,988 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:12:30,816 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:12:39,938 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 15:12:59,427 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 15:12:59,476 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:13:25,360 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:14:37,844 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 15:14:37,845 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 15:15:01,512 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:15:13,713 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 15:15:30,875 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:15:33,111 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:15:43,189 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 15:15:49,011 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 15:15:53,106 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 15:16:05,040 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 15:16:17,851 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 15:16:52,252 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 15:17:07,687 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 15:17:52,517 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-03 15:18:08,035 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-03 15:18:19,306 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 15:18:29,743 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:18:29,818 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:18:30,314 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 15:18:44,471 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 15:19:03,970 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-03 15:19:11,612 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 15:19:31,155 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-03 15:19:48,603 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:19:48,684 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:19:59,079 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:20:09,412 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:20:18,682 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 15:20:32,287 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:21:00,753 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 15:21:14,304 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:21:42,782 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 15:21:56,214 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:22:24,637 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 15:22:38,235 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:23:06,691 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 15:23:20,334 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 15:24:39,876 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 15:25:09,739 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 15:26:27,045 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 15:26:45,430 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:26:45,517 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:26:55,988 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:27:06,253 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:27:25,634 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-03 15:27:25,696 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:27:55,343 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-03 15:28:37,511 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-03 15:28:50,363 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 15:29:07,008 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:29:09,152 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:29:19,223 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 15:29:24,605 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 15:29:28,709 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 15:31:04,359 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 15:31:20,410 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:31:20,505 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:31:30,944 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:31:41,270 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:32:00,767 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-03 15:32:00,801 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:32:30,442 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-03 15:33:12,725 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-03 15:33:39,414 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:33:41,561 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:33:51,633 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 15:33:57,015 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 15:34:01,091 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 15:36:51,115 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 15:37:07,383 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:37:07,488 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:37:17,904 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 15:37:28,203 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 15:37:37,489 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-03 15:37:37,522 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:38:00,354 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:38:09,471 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-03 15:38:29,970 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-03 15:38:30,001 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:38:31,001 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-03 15:38:33,112 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-03 15:38:35,216 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-03 15:38:46,315 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-03 15:38:58,602 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-03 15:38:58,638 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:39:21,305 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:39:30,463 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-03 15:39:35,464 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-03 15:39:59,072 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:40:01,221 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-03 15:40:01,377 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-03 15:40:11,471 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-03 15:40:23,920 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-03 15:40:23,953 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:40:46,563 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:40:55,674 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-03 15:41:19,311 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:41:21,451 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-03 15:41:22,591 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-03 15:41:26,694 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-03 15:41:41,081 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-03 15:41:41,112 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 15:42:03,972 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 15:42:13,081 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-03 15:42:33,634 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-03 15:42:35,729 - feedzai_AM_Login -INFO - CheckBox is now Selected
+2018-08-03 15:42:36,729 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-03 15:42:38,840 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-03 15:42:40,945 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-03 15:42:52,122 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-03 15:42:54,988 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 15:43:12,556 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 15:43:14,712 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 15:43:24,784 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 15:43:30,236 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 15:43:34,349 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 16:45:17,452 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 16:45:34,258 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 16:45:34,343 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 16:45:44,983 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 16:45:55,279 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 16:46:04,565 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-03 16:46:04,638 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:46:27,420 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 16:46:36,534 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-03 16:46:57,169 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-03 16:46:57,229 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:46:58,230 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-03 16:47:00,386 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-03 16:47:02,480 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-03 16:47:13,578 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-03 16:47:25,812 - feedzai_AM_Login -INFO - Rule#250c Selected
+2018-08-03 16:47:25,918 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:47:48,421 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 16:47:57,590 - feedzai_AM_Login -INFO - RULE 250c CHANGES SAVED
+2018-08-03 16:48:02,591 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-03 16:48:26,130 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:48:28,246 - feedzai_AM_Login -INFO - RULE 250c AMOUNT ENTERED
+2018-08-03 16:48:28,352 - feedzai_AM_Login -INFO - RULE 250c COUNT ENTERED
+2018-08-03 16:48:38,445 - feedzai_AM_Login -INFO - RULE 250c CHANGES COMPLETED
+2018-08-03 16:48:50,703 - feedzai_AM_Login -INFO - Rule#250e Selected
+2018-08-03 16:48:50,805 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:49:13,388 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 16:49:22,536 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-03 16:49:27,537 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-03 16:49:51,118 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:49:53,281 - feedzai_AM_Login -INFO - RULE 250e AMOUNT ENTERED
+2018-08-03 16:49:53,373 - feedzai_AM_Login -INFO - RULE 250e COUNT ENTERED
+2018-08-03 16:50:03,466 - feedzai_AM_Login -INFO - RULE 250e CHANGES COMPLETED
+2018-08-03 16:50:15,774 - feedzai_AM_Login -INFO - Rule#250g Selected
+2018-08-03 16:50:15,839 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:50:38,585 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 16:50:47,720 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-03 16:50:52,721 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-03 16:51:16,390 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 16:51:18,497 - feedzai_AM_Login -INFO - RULE 250g AMOUNT ENTERED
+2018-08-03 16:51:18,600 - feedzai_AM_Login -INFO - RULE 250g COUNT ENTERED
+2018-08-03 16:51:28,688 - feedzai_AM_Login -INFO - RULE 250g CHANGES COMPLETED
+2018-08-03 16:51:46,739 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 16:51:48,888 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 16:51:58,961 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 16:52:04,502 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 16:52:08,578 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 16:52:55,347 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 16:53:13,371 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 16:53:15,516 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 16:53:25,582 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 16:53:30,826 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 16:53:34,968 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 16:54:21,383 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 16:54:33,826 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 16:54:33,911 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 16:54:34,443 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 16:54:48,631 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 16:58:40,980 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 16:59:02,021 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 16:59:04,212 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 16:59:14,291 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 16:59:19,680 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 16:59:23,755 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 17:00:14,558 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 17:00:32,108 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 17:00:34,251 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 17:00:44,321 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 17:00:49,539 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 17:00:53,614 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 17:01:39,982 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 17:01:53,154 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 17:01:53,236 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 17:01:53,561 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 17:02:07,697 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 17:17:03,092 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 17:17:24,088 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 17:17:26,242 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 17:17:36,323 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 17:17:41,770 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 17:17:45,868 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 17:18:32,469 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-03 17:18:44,935 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 17:18:45,027 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 17:18:45,410 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-03 17:18:59,579 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-03 17:19:19,141 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-03 17:29:02,893 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 17:29:19,535 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 17:29:19,622 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 17:29:30,044 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 17:29:40,371 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 17:29:49,645 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 17:29:49,717 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 17:30:03,275 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 17:30:32,957 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 17:30:42,094 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 17:51:46,708 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 18:14:02,355 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 18:14:19,473 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 18:14:19,558 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 18:14:29,976 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 18:14:40,263 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 18:14:49,484 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 18:14:49,562 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:15:13,776 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:15:43,588 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:15:52,717 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 18:19:23,566 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 18:19:40,176 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 18:19:40,258 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 18:19:50,690 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 18:20:01,011 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 18:20:10,183 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 18:20:10,215 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:20:23,728 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:20:53,632 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:21:02,737 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 18:23:53,611 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-03 18:24:10,255 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 18:24:10,339 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 18:24:20,743 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 18:24:31,088 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 18:24:40,281 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 18:24:40,354 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:24:53,697 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:25:23,571 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:25:32,749 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-03 18:25:52,117 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-03 18:25:52,150 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:26:05,661 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:26:35,502 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:26:44,590 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-03 18:27:06,329 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 18:27:06,367 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:27:19,920 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:27:49,732 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:27:58,893 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-03 18:28:18,277 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-03 18:28:18,390 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:28:31,859 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:29:01,482 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:29:10,606 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-03 18:29:30,047 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-03 18:29:30,156 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:29:43,576 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:30:13,378 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:30:22,493 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-03 18:30:41,929 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-03 18:30:42,000 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:31:07,835 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-03 18:32:20,245 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 18:32:20,246 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-03 18:32:43,921 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-03 18:32:56,136 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-03 18:33:13,282 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 18:33:15,462 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 18:33:25,525 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-03 18:33:32,401 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-03 18:33:36,503 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-03 18:33:48,245 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-03 18:34:00,941 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-03 18:38:48,214 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-03 18:38:48,306 - feedzai_AM_Login -INFO - Password Entered
+2018-08-03 18:38:58,689 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-03 18:39:08,950 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-03 18:39:18,201 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-03 18:39:31,704 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:40:00,108 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 18:40:13,562 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:40:41,902 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 18:40:55,422 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:41:24,022 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 18:41:37,627 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:42:06,160 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-03 18:42:19,724 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-03 18:43:39,184 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-03 18:44:08,747 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-06 11:43:37,560 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 11:43:52,735 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 11:43:52,821 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 11:44:03,324 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 11:44:13,744 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 11:44:23,089 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-06 11:44:23,177 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:44:36,737 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 11:45:06,672 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:45:15,828 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-06 11:45:35,205 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-06 11:45:35,286 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:45:48,797 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 11:46:18,732 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:46:27,846 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-06 11:46:49,504 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-06 11:46:49,605 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:47:03,227 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 11:47:33,208 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:47:42,309 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-06 11:48:01,778 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-06 11:48:01,851 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:48:15,467 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 11:48:45,430 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:48:54,558 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-06 11:49:13,986 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-06 11:49:14,062 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:49:27,600 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 11:49:57,575 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:50:06,743 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-06 11:50:26,133 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-06 11:50:26,210 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:50:52,166 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 11:52:04,822 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-06 11:52:04,823 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-06 11:52:28,506 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 11:52:40,803 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-06 11:52:58,441 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 11:53:00,667 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 11:53:10,742 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 11:53:16,606 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 11:53:20,725 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 11:53:32,573 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-06 11:53:45,419 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-06 11:58:32,757 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 11:58:32,830 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 12:26:06,449 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 12:26:27,472 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 12:26:27,567 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 12:26:38,161 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 12:26:48,697 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 12:26:58,076 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-06 12:26:58,197 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:27:11,630 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 12:27:41,598 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:27:50,790 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-06 12:28:10,251 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-06 12:28:10,344 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:28:23,740 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 12:28:53,725 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:29:02,875 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-06 12:29:24,607 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-06 12:29:24,704 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:29:38,112 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 12:30:08,131 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:30:17,339 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-06 12:30:36,823 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-06 12:30:36,907 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:30:50,329 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 12:31:20,187 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:31:29,384 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-06 12:31:48,948 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-06 12:31:49,024 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:32:02,494 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-06 12:32:32,504 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:32:41,686 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-06 12:33:01,074 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-06 12:33:01,151 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:33:27,065 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 12:34:39,579 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-06 12:34:39,580 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-06 12:35:03,211 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:35:15,404 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-06 12:35:32,022 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 12:35:34,259 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 12:35:44,324 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 12:35:49,899 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 12:35:54,019 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 12:36:05,849 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-06 12:36:18,767 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-06 12:42:03,542 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 12:42:20,304 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 12:42:20,389 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 12:42:30,848 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 12:42:41,213 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 12:43:00,794 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-06 12:43:00,865 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 12:43:30,846 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-06 12:44:13,125 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-06 12:46:55,154 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 12:46:57,354 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 12:47:07,426 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 12:47:12,905 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 12:47:17,024 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 12:48:02,950 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-06 13:04:01,724 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 13:04:18,295 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 13:04:18,369 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 13:04:28,803 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 13:04:39,143 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 13:04:58,661 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-06 13:04:58,724 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 13:05:28,639 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-06 13:06:11,001 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-06 13:06:23,706 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-06 13:06:40,508 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 13:06:42,712 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 13:06:52,787 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 13:06:58,289 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 13:07:02,416 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 15:55:29,454 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 15:55:45,605 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 15:55:45,709 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 15:55:56,526 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 15:56:06,895 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 15:56:16,440 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-06 15:56:16,513 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 15:56:39,500 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 15:56:48,674 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-06 15:57:09,270 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-06 15:57:09,352 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 15:57:10,353 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-06 15:57:12,503 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-06 15:57:14,619 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-06 15:57:25,783 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-06 15:57:43,787 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 15:57:45,973 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 15:57:56,043 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 15:58:01,862 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 15:58:06,005 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 15:58:37,100 - feedzai_AM_Login -INFO - otp Captured
+2018-08-06 16:05:59,855 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 16:10:21,730 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 16:10:39,308 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 16:10:39,390 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 16:10:49,825 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-06 16:11:00,126 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-06 16:11:09,369 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-06 16:11:09,452 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:11:32,358 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 16:11:41,496 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-06 16:12:02,188 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-06 16:12:02,258 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:12:03,259 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-06 16:12:05,406 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-06 16:12:07,633 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-06 16:12:18,775 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-06 16:12:31,130 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-06 16:12:31,200 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:12:54,087 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 16:13:03,217 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-06 16:13:08,218 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-06 16:13:32,050 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:13:34,202 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-06 16:13:34,352 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-06 16:13:44,496 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-06 16:13:56,779 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-06 16:13:56,853 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:14:19,801 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 16:14:28,953 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-06 16:14:52,731 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:14:54,902 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-06 16:14:56,035 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-06 16:15:00,175 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-06 16:15:14,626 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-06 16:15:14,694 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:15:37,589 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-06 16:15:46,731 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-06 16:16:07,399 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-06 16:16:07,465 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-06 16:16:08,465 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-06 16:16:10,599 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-06 16:16:12,736 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-06 16:16:23,884 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-06 16:16:26,843 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-06 16:16:45,460 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 16:16:47,664 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 16:16:57,733 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 16:17:03,209 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 16:17:07,290 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 16:17:38,122 - feedzai_AM_Login -INFO - otp Captured
+2018-08-06 16:23:11,991 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 16:23:32,992 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 16:23:35,129 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 16:23:45,201 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 16:23:50,559 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 16:23:54,625 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 16:24:25,073 - feedzai_AM_Login -INFO - otp Captured
+2018-08-06 16:38:10,473 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 16:38:39,782 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 16:38:41,994 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 16:38:52,066 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 16:38:57,840 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 16:39:02,003 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 16:39:34,009 - feedzai_AM_Login -INFO - otp Captured
+2018-08-06 16:39:56,701 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-06 16:48:35,468 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-06 16:48:54,621 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-06 16:48:56,834 - feedzai_AM_Login -INFO - Password Entered
+2018-08-06 16:49:06,912 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-06 16:49:12,598 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-06 16:49:16,728 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-06 16:49:47,553 - feedzai_AM_Login -INFO - otp Captured
+2018-08-06 16:50:10,223 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-07 12:18:27,589 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 12:18:44,499 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 12:18:44,590 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 12:18:55,262 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 12:19:05,696 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 12:19:15,023 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 12:19:15,087 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 12:19:28,664 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 12:19:58,733 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 12:21:11,309 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 12:21:14,037 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 12:26:54,790 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 12:27:11,468 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 12:27:11,549 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 12:27:21,954 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 12:27:32,238 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 12:27:41,480 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 12:27:41,540 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 12:27:54,952 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 12:28:24,821 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 12:29:37,311 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 12:29:39,918 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 12:29:54,429 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 12:29:54,559 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 12:29:54,625 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 12:30:28,933 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-07 12:48:09,571 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 12:48:26,597 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 12:48:26,681 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 12:48:37,105 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 12:48:47,431 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 12:48:56,737 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 12:48:56,806 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 12:49:10,229 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 12:49:40,120 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 12:50:52,673 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 12:50:55,317 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 14:57:05,473 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 14:57:22,027 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 14:57:22,113 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 14:57:32,719 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 14:57:43,040 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 14:57:52,289 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 14:57:52,359 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 14:58:05,770 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 14:58:36,486 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 14:59:49,029 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 14:59:51,692 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 15:01:25,386 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:01:42,043 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:01:42,132 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:01:52,574 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:02:02,946 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:02:12,229 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:02:12,316 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:26:40,174 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:26:56,817 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:26:56,891 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:27:07,321 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:27:17,656 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:27:26,961 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:27:27,039 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:27:40,523 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:28:10,533 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 15:29:23,160 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 15:29:25,805 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 15:38:28,699 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:38:46,818 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:38:46,911 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:38:57,355 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:39:07,675 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:39:16,927 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:39:17,005 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:39:30,508 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:40:00,323 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 15:41:12,924 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 15:41:15,566 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 15:41:28,659 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:41:28,738 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:41:29,095 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-07 15:41:43,268 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-07 15:42:35,785 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:42:52,219 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:42:52,299 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:43:02,705 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:43:13,003 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:43:22,307 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:43:22,381 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:43:35,822 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:44:05,739 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 15:45:18,308 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 15:45:20,941 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 15:47:28,354 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:47:36,712 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:47:36,796 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:47:44,236 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:47:44,338 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:47:47,227 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:47:54,755 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:47:57,519 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:48:05,141 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:48:06,783 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-07 15:48:14,451 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:48:14,517 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:48:20,400 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:48:28,002 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:48:57,978 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 15:49:21,295 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:49:21,400 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:49:21,493 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:49:43,944 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 15:53:37,125 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:53:54,591 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:53:54,672 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:54:05,124 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 15:54:15,495 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 15:54:24,774 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 15:54:24,851 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 15:54:38,448 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 15:55:08,376 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 15:56:20,911 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 15:56:23,578 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 15:56:39,267 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:56:39,381 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:56:39,451 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:57:14,018 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-07 15:57:26,974 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-07 15:57:38,284 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-07 15:57:38,607 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-07 15:57:52,101 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:57:52,185 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 15:57:52,539 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-07 15:58:06,717 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-07 15:58:24,145 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 15:58:24,281 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 15:58:24,384 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:09:10,569 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:09:27,632 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:09:27,722 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:09:38,109 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:09:48,419 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:09:57,636 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 16:09:57,727 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:10:11,181 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 16:10:41,264 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:11:53,782 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 16:11:56,469 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 16:14:28,147 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:14:45,226 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:14:45,309 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:14:55,762 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:15:06,083 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:15:15,416 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-07 16:15:15,509 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:17:49,835 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-07 16:17:49,904 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:22:47,551 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:23:04,756 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:23:04,844 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:23:15,268 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:23:25,599 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:23:34,786 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-07 16:23:34,846 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:23:57,707 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:24:06,868 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-07 16:24:27,527 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-07 16:24:27,595 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:24:28,596 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-07 16:24:30,786 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-07 16:24:32,914 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-07 16:24:44,084 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-07 16:24:56,327 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-07 16:24:56,388 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:25:19,312 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:25:28,475 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-07 16:25:33,475 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-07 16:25:57,335 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:25:59,469 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-07 16:25:59,610 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-07 16:26:09,768 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-07 16:26:22,113 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-07 16:26:22,220 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:26:45,220 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:26:54,370 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-07 16:27:18,190 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:27:20,333 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-07 16:27:21,494 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-07 16:27:25,680 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-07 16:27:40,191 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-07 16:27:40,295 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:28:03,104 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:28:12,239 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-07 16:28:32,973 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-07 16:28:33,053 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:28:34,053 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-07 16:28:36,192 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-07 16:28:38,327 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-07 16:28:49,482 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-07 16:28:52,410 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 16:29:10,643 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:29:12,858 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:29:22,926 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-07 16:29:28,456 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-07 16:29:32,562 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-07 16:30:03,275 - feedzai_AM_Login -INFO - otp Captured
+2018-08-07 16:30:25,985 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-07 16:30:44,009 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:30:46,216 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:30:56,277 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-07 16:31:01,594 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-07 16:31:05,719 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-07 16:33:46,824 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:34:04,063 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:34:04,146 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:34:14,600 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:34:24,888 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:34:34,100 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 16:34:34,165 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:35:15,049 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 16:35:44,944 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:36:57,565 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 16:37:00,208 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 16:37:16,263 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:37:16,378 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:37:16,444 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:37:51,537 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-07 16:38:04,125 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-07 16:38:15,448 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-07 16:38:15,691 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-07 16:38:29,173 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:38:29,247 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:38:29,618 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-07 16:38:43,810 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-07 16:39:03,559 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-07 16:39:06,993 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-07 16:39:07,607 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-07 16:39:23,090 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:39:23,172 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:39:33,583 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:39:43,892 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:39:53,186 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-07 16:40:06,827 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 16:41:35,440 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 16:53:42,453 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:53:58,702 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:53:58,830 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:54:09,448 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:54:19,790 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:54:29,148 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-07 16:54:29,217 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-07 16:54:42,844 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 16:55:12,695 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-07 16:56:25,169 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-07 16:56:27,854 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-07 16:56:44,179 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-07 16:56:44,321 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:56:44,393 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:57:18,441 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-07 16:57:31,135 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-07 16:57:42,544 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-07 16:57:42,809 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-07 16:57:58,709 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:57:58,784 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:57:59,181 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-07 16:58:13,362 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-07 16:58:33,084 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-07 16:58:36,516 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-07 16:58:37,057 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-07 16:58:53,288 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-07 16:58:53,366 - feedzai_AM_Login -INFO - Password Entered
+2018-08-07 16:59:03,938 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-07 16:59:14,304 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-07 16:59:23,581 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-07 16:59:37,193 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-07 17:01:00,765 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 10:10:48,393 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 10:11:04,496 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:11:04,585 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:11:15,281 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:11:25,645 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:11:35,233 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-08 10:11:35,263 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:11:48,716 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:12:18,980 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:12:28,131 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-08 10:12:47,534 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-08 10:12:47,564 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:13:01,065 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:13:30,748 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:13:39,889 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-08 10:14:02,681 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-08 10:14:02,711 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:14:16,067 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:14:45,886 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:14:55,036 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-08 10:15:15,161 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-08 10:15:15,260 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:15:29,272 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:15:58,997 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:16:08,201 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-08 10:16:27,597 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-08 10:16:27,672 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:16:41,088 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:17:11,025 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:17:20,144 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-08 10:17:39,597 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-08 10:17:39,663 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:18:05,603 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:19:18,157 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 10:19:18,158 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-08 10:19:41,853 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:19:54,221 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 10:20:11,985 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:20:14,174 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:20:24,241 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 10:20:30,117 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:20:34,251 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 10:20:46,076 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-08 10:20:58,843 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-08 10:25:01,004 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 10:25:18,498 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:25:18,584 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:25:29,264 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:25:39,617 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:25:48,880 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-08 10:25:48,909 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:26:02,504 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:26:32,406 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:27:50,144 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 10:27:52,787 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 10:28:08,359 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 10:28:08,497 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:28:08,596 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:28:42,263 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-08 10:28:55,032 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:29:06,407 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-08 10:29:06,780 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-08 10:29:22,215 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:29:22,296 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:29:22,725 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-08 10:29:36,881 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-08 10:29:56,527 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-08 10:29:59,954 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-08 10:30:00,560 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-08 10:30:16,009 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:30:16,091 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:30:26,478 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:30:36,766 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:30:46,052 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 10:30:59,722 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 10:32:23,295 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 10:33:34,354 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 10:33:50,852 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:33:50,934 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:34:01,402 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:34:11,731 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:34:21,020 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-08 10:34:21,093 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:34:43,997 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:34:53,161 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-08 10:35:13,756 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-08 10:35:13,824 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:35:14,824 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-08 10:35:16,956 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-08 10:35:19,090 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-08 10:35:30,241 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-08 10:35:42,490 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-08 10:35:42,552 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:36:05,458 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:36:14,576 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-08 10:36:19,576 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-08 10:36:43,275 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:36:45,397 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-08 10:36:45,569 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-08 10:36:55,699 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-08 10:37:07,995 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-08 10:37:08,062 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:37:30,838 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:37:39,993 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-08 10:38:03,669 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:38:05,861 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-08 10:38:06,971 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-08 10:38:11,106 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-08 10:38:25,573 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-08 10:38:25,638 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:38:48,504 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:38:57,652 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-08 10:39:18,272 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-08 10:39:18,341 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:39:19,342 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-08 10:39:21,472 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-08 10:39:23,608 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-08 10:39:34,782 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-08 10:39:37,725 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 10:39:53,935 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:39:56,138 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:40:06,213 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 10:40:11,648 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:40:15,772 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 10:40:46,680 - feedzai_AM_Login -INFO - otp Captured
+2018-08-08 10:41:09,379 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 10:41:27,149 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:41:29,350 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:41:39,413 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 10:41:44,705 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:41:48,771 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 10:42:19,453 - feedzai_AM_Login -INFO - otp Captured
+2018-08-08 10:42:42,074 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 10:42:54,531 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:42:54,610 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:42:54,980 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-08 10:43:09,147 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-08 10:43:30,413 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-08 10:43:34,429 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-08 10:43:47,972 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:43:48,047 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:43:58,448 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:44:08,796 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:45:31,635 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 10:50:42,730 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 10:50:59,079 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:50:59,165 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:51:09,575 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 10:51:19,909 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 10:51:29,169 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-08 10:51:29,244 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:51:52,134 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:52:01,290 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-08 10:52:21,932 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-08 10:52:22,008 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:52:23,008 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-08 10:52:25,145 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-08 10:52:27,287 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-08 10:52:38,435 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-08 10:52:50,885 - feedzai_AM_Login -INFO - Rule#250c Selected
+2018-08-08 10:52:50,947 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:53:13,764 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:53:22,914 - feedzai_AM_Login -INFO - RULE 250c CHANGES SAVED
+2018-08-08 10:53:27,914 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-08 10:53:51,647 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:53:53,788 - feedzai_AM_Login -INFO - RULE 250c AMOUNT ENTERED
+2018-08-08 10:53:53,927 - feedzai_AM_Login -INFO - RULE 250c COUNT ENTERED
+2018-08-08 10:54:04,091 - feedzai_AM_Login -INFO - RULE 250c CHANGES COMPLETED
+2018-08-08 10:54:16,353 - feedzai_AM_Login -INFO - Rule#250e Selected
+2018-08-08 10:54:16,430 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:54:39,297 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:54:48,447 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-08 10:54:53,448 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-08 10:55:17,198 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:55:19,348 - feedzai_AM_Login -INFO - RULE 250e AMOUNT ENTERED
+2018-08-08 10:55:19,497 - feedzai_AM_Login -INFO - RULE 250e COUNT ENTERED
+2018-08-08 10:55:29,654 - feedzai_AM_Login -INFO - RULE 250e CHANGES COMPLETED
+2018-08-08 10:55:41,956 - feedzai_AM_Login -INFO - Rule#250g Selected
+2018-08-08 10:55:42,018 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:56:04,820 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-08 10:56:13,980 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-08 10:56:18,981 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-08 10:56:42,683 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 10:56:44,824 - feedzai_AM_Login -INFO - RULE 250g AMOUNT ENTERED
+2018-08-08 10:56:44,943 - feedzai_AM_Login -INFO - RULE 250g COUNT ENTERED
+2018-08-08 10:56:55,103 - feedzai_AM_Login -INFO - RULE 250g CHANGES COMPLETED
+2018-08-08 10:57:11,535 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:57:13,728 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:57:23,799 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 10:57:29,246 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:57:33,368 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 10:58:20,462 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 10:58:38,238 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:58:40,455 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 10:58:50,522 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 10:58:55,692 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 10:58:59,782 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 10:59:46,600 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 10:59:59,748 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 10:59:59,834 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:00:00,178 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-08 11:00:14,360 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-08 11:00:33,991 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-08 11:00:37,965 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-08 11:06:23,375 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 11:06:36,611 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:06:36,693 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:06:47,093 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 11:06:57,466 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 11:07:06,691 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:07:06,767 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:07:20,469 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:07:53,345 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:08:16,898 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:08:17,008 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:08:30,558 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:09:03,377 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:09:26,949 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:09:27,026 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:09:40,555 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:10:13,428 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:10:36,999 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:10:37,063 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:11:02,931 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:12:15,414 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 11:12:31,181 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:13:15,797 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 11:13:32,739 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:13:34,942 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:13:45,007 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 11:21:35,920 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 11:21:52,036 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:21:52,130 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:22:02,557 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 11:22:12,844 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 11:22:22,145 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:22:22,215 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:22:35,698 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:23:08,706 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:23:32,357 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:23:32,454 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:23:45,915 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:24:18,843 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:24:42,477 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:24:42,564 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:24:55,967 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:25:28,871 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:25:52,391 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:25:52,503 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:26:18,364 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 11:27:30,896 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-08 11:27:46,666 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:28:31,338 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 11:28:47,600 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:28:49,842 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:28:59,941 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 11:29:05,524 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 11:29:09,637 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 11:30:38,817 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 11:30:57,277 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:30:57,354 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:30:57,721 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-08 11:31:11,900 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-08 11:31:31,501 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-08 11:31:34,613 - feedzai_AM_Login -INFO - Rule 160a Triggered
+2018-08-08 11:31:34,614 - feedzai_AM_Login -INFO - Rule 160aa Triggered
+2018-08-08 11:31:34,614 - feedzai_AM_Login -INFO - Rule 160b Triggered
+2018-08-08 11:31:34,614 - feedzai_AM_Login -INFO - Rule 160ba Triggered
+2018-08-08 11:31:35,209 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-08 11:31:48,729 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 11:31:48,810 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 11:31:59,210 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 11:32:09,516 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 11:32:23,944 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:32:37,592 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:33:11,254 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:33:24,881 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 11:34:05,038 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:35:01,292 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 11:35:01,394 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 11:35:14,909 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-08 12:32:49,943 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 12:33:10,854 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 13:22:05,493 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 13:22:25,188 - Validate 029 Rule trigger -INFO - opened driver1
+2018-08-08 13:22:55,191 - Validate 029 Rule trigger -INFO - App launched
+2018-08-08 13:24:30,948 - Pulse Revert changes-029 -INFO - UserName Entered
+2018-08-08 13:24:31,034 - Pulse Revert changes-029 -INFO - Password Entered
+2018-08-08 13:24:41,653 - Pulse Revert changes-029 -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 13:24:52,029 - Pulse Revert changes-029 -INFO - Clicked on Rule
+2018-08-08 15:14:40,026 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 15:15:01,435 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 15:15:03,664 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 15:15:13,744 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 15:15:19,825 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 15:15:23,940 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 16:27:14,901 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 16:58:22,857 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 16:59:48,252 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:01:08,706 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:01:26,952 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:01:27,033 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:01:37,760 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 17:01:48,545 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 17:02:08,449 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 17:02:08,496 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 17:02:38,547 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 17:03:21,064 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-08 17:03:33,909 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 17:03:56,886 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:03:59,070 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:04:09,137 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 17:04:14,774 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 17:04:18,893 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 17:05:04,845 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-08 17:13:02,347 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:13:19,932 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:13:20,002 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:14:16,761 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:15:48,718 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:16:05,500 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:16:05,585 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:17:59,799 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:18:16,215 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:18:16,304 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:18:26,750 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 17:18:37,101 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 17:18:56,633 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 17:18:56,709 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 17:19:26,620 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 17:20:08,907 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-08 17:20:21,707 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 17:22:09,912 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:22:26,161 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:22:26,248 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:22:36,715 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-08 17:22:47,023 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-08 17:23:06,616 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-08 17:23:06,740 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-08 17:23:36,656 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-08 17:24:19,088 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-08 17:24:31,830 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-08 17:24:49,069 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:24:51,273 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:25:01,343 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 17:25:06,803 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 17:25:10,978 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 17:25:56,731 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-08 17:43:42,090 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:44:06,364 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:44:08,544 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:44:18,616 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 17:44:24,081 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 17:44:28,170 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 17:54:50,759 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:54:53,328 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 17:55:14,216 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:55:16,390 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:55:26,462 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-08 17:55:31,879 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-08 17:55:35,988 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-08 17:56:16,517 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-08 17:56:32,141 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-08 17:56:37,236 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-08 17:56:43,477 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-08 17:56:53,932 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 17:56:54,017 - feedzai_AM_Login -INFO - Password Entered
+2018-08-08 17:56:54,434 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-08 17:57:08,631 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-08 18:01:24,601 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 18:01:27,255 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-08 18:01:44,284 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-08 18:01:44,368 - feedzai_AM_Login -INFO - Password Entered
+2018-08-09 12:35:41,705 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:35:51,924 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:36:37,135 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-09 12:36:39,426 - feedzai_AM_Login -INFO - Password Entered
+2018-08-09 12:36:49,566 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-09 12:38:09,996 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:38:15,843 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:38:37,383 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-09 12:38:39,608 - feedzai_AM_Login -INFO - Password Entered
+2018-08-09 12:38:49,699 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-09 12:38:55,557 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-09 12:38:59,643 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-09 12:39:41,537 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:39:53,488 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-09 12:40:30,228 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-09 12:40:32,467 - feedzai_AM_Login -INFO - Password Entered
+2018-08-09 12:40:42,558 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 11:20:51,281 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:22:51,900 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:23:34,111 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:23:59,532 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:24:02,540 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:24:45,419 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:24:48,391 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:25:06,676 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 11:25:06,748 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 11:29:00,107 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:29:02,941 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:29:02,950 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:29:14,623 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:29:17,761 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:29:17,770 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:31:27,911 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:31:28,011 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:32:13,721 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:32:13,823 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:32:51,342 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:32:51,453 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:33:09,122 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 11:33:09,210 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 11:34:37,080 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 11:34:37,891 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 11:34:55,403 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 11:34:55,499 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 11:35:06,020 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 11:35:18,129 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 12:09:12,353 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 12:09:28,171 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:09:28,265 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:09:38,959 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:09:49,308 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:09:58,627 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-10 12:09:58,721 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:10:12,157 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:10:42,126 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:10:51,288 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-10 12:11:10,727 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-10 12:11:10,831 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:11:24,204 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:11:54,083 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:12:03,249 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-10 12:12:24,846 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:12:24,902 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:12:38,316 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:13:08,183 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:13:17,319 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-10 12:13:36,719 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-10 12:13:36,789 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:13:50,215 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:14:20,104 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:14:29,244 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-10 12:14:48,665 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-10 12:14:48,801 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:15:02,181 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:15:32,025 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:15:41,178 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-10 12:16:00,592 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-10 12:16:00,669 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:16:26,640 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:17:39,135 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 12:17:39,136 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-10 12:18:02,783 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:18:15,055 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:18:31,393 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:18:33,625 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:18:43,712 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 12:21:14,653 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:21:14,740 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:21:25,144 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:21:35,449 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:21:44,701 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-10 12:21:49,311 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 12:21:58,253 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:22:11,232 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:22:11,311 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:22:22,700 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:22:26,776 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:22:33,061 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:22:40,349 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:22:42,363 - feedzai_AM_Login -INFO - Rule#116 Selected
+2018-08-10 12:22:42,433 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:22:55,885 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:23:08,810 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:23:22,407 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:23:25,787 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:23:34,928 - feedzai_AM_Login -INFO - RULE 116 CHANGES SAVED
+2018-08-10 12:23:50,926 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:23:54,323 - feedzai_AM_Login -INFO - Rule#118 Selected
+2018-08-10 12:23:54,408 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:24:04,604 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:24:07,926 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:24:33,147 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:24:37,692 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:24:46,704 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:24:46,840 - feedzai_AM_Login -INFO - RULE 118 CHANGES SAVED
+2018-08-10 12:25:08,477 - feedzai_AM_Login -INFO - Rule#119 Selected
+2018-08-10 12:25:08,584 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:25:47,946 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:26:06,249 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 12:26:17,832 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:26:26,977 - feedzai_AM_Login -INFO - RULE 119 CHANGES SAVED
+2018-08-10 12:26:36,239 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:26:46,456 - feedzai_AM_Login -INFO - Rule#120 Selected
+2018-08-10 12:26:46,521 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:27:00,143 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:27:29,973 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:27:39,105 - feedzai_AM_Login -INFO - RULE 120 CHANGES SAVED
+2018-08-10 12:27:58,573 - feedzai_AM_Login -INFO - Rule#121 Selected
+2018-08-10 12:27:58,675 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:28:12,179 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:28:42,092 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:28:51,226 - feedzai_AM_Login -INFO - RULE 121 CHANGES SAVED
+2018-08-10 12:29:10,616 - feedzai_AM_Login -INFO - Rule#019 Selected
+2018-08-10 12:29:10,693 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:29:36,612 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:30:49,147 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 12:30:49,148 - feedzai_AM_Login -INFO - RULE 019 CHANGES SAVED
+2018-08-10 12:31:12,835 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:31:25,042 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:31:42,142 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:31:44,353 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:31:54,434 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 12:32:00,356 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 12:32:04,477 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-10 12:32:16,198 - feedzai_AM_Login -INFO - BillerSelected
+2018-08-10 12:32:29,015 - feedzai_AM_Login -INFO - Biller Details Entered
+2018-08-10 12:34:58,789 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 12:35:16,306 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:35:16,376 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:35:26,780 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:35:37,104 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:35:46,311 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-10 12:35:46,372 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:35:59,876 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:36:29,716 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:37:42,145 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 12:37:44,979 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:38:02,729 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 12:38:02,816 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:38:02,903 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:38:37,783 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-10 12:38:51,175 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 12:39:02,389 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-10 12:39:02,660 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-10 12:39:18,369 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:39:18,443 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:39:18,799 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-10 12:39:32,975 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-10 12:39:52,637 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-10 12:39:56,262 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-10 12:39:57,139 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-10 12:40:12,741 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:40:12,811 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:40:23,179 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:40:33,431 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:40:42,639 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 12:40:56,184 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 12:42:19,698 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 12:46:59,481 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-10 12:46:59,546 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:47:42,566 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:47:56,709 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 12:48:01,709 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 12:48:40,414 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:48:42,559 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-10 12:48:42,676 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-10 12:48:52,812 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-10 12:49:05,117 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-10 12:49:05,183 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:49:27,971 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:49:37,104 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-10 12:50:00,783 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:50:02,925 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-10 12:50:04,056 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-10 12:50:08,181 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-10 12:50:22,561 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-10 12:50:22,665 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:50:45,391 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:50:54,528 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-10 12:51:15,080 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-10 12:51:15,139 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:51:16,140 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-10 12:51:18,270 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-10 12:51:20,401 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-10 12:51:31,483 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-10 12:51:34,053 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:51:51,026 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:51:53,270 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:52:03,352 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 12:52:08,722 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 12:52:12,873 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-10 12:52:43,603 - feedzai_AM_Login -INFO - otp Captured
+2018-08-10 12:55:30,966 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:55:31,037 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:55:41,437 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:55:51,728 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:57:39,345 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 12:57:52,529 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 12:57:52,602 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 12:58:03,036 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 12:58:13,340 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 12:58:22,575 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-10 12:58:22,646 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:58:45,422 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 12:58:54,539 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-10 12:59:15,083 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-10 12:59:15,150 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 12:59:16,150 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-10 12:59:18,275 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-10 12:59:20,388 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-10 12:59:31,476 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-10 12:59:43,727 - feedzai_AM_Login -INFO - Rule#250c Selected
+2018-08-10 12:59:43,788 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:00:06,555 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 13:00:15,685 - feedzai_AM_Login -INFO - RULE 250c CHANGES SAVED
+2018-08-10 13:00:20,685 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 13:00:44,344 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:00:46,456 - feedzai_AM_Login -INFO - RULE 250c AMOUNT ENTERED
+2018-08-10 13:00:46,563 - feedzai_AM_Login -INFO - RULE 250c COUNT ENTERED
+2018-08-10 13:00:56,681 - feedzai_AM_Login -INFO - RULE 250c CHANGES COMPLETED
+2018-08-10 13:01:08,938 - feedzai_AM_Login -INFO - Rule#250e Selected
+2018-08-10 13:01:09,004 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:01:31,786 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 13:01:40,894 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-10 13:01:45,895 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-10 13:02:09,561 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:02:11,690 - feedzai_AM_Login -INFO - RULE 250e AMOUNT ENTERED
+2018-08-10 13:02:11,800 - feedzai_AM_Login -INFO - RULE 250e COUNT ENTERED
+2018-08-10 13:02:21,941 - feedzai_AM_Login -INFO - RULE 250e CHANGES COMPLETED
+2018-08-10 13:02:34,163 - feedzai_AM_Login -INFO - Rule#250g Selected
+2018-08-10 13:02:34,219 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:02:56,928 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 13:03:06,046 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-10 13:03:11,046 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-10 13:03:34,926 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:03:37,033 - feedzai_AM_Login -INFO - RULE 250g AMOUNT ENTERED
+2018-08-10 13:03:37,170 - feedzai_AM_Login -INFO - RULE 250g COUNT ENTERED
+2018-08-10 13:03:47,277 - feedzai_AM_Login -INFO - RULE 250g CHANGES COMPLETED
+2018-08-10 13:04:05,147 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:04:07,297 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:04:17,375 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 13:14:18,864 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 13:14:32,124 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:14:32,262 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:14:42,693 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 13:14:52,993 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 13:15:02,284 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:15:02,350 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:15:15,926 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:15:48,825 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:16:12,443 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:16:12,514 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:16:26,109 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:16:59,045 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:17:22,727 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:17:22,792 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:17:36,247 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:18:09,175 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:18:32,731 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:18:32,794 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:18:58,612 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:20:11,132 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 13:20:26,903 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:21:11,518 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 13:21:28,443 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:21:30,628 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:21:40,686 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 13:26:09,307 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:26:09,383 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:26:19,839 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 13:26:30,159 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 13:26:44,556 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:26:58,130 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:27:31,732 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:27:45,289 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:28:25,300 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:29:21,416 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:29:21,477 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:29:34,953 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 13:30:08,512 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:30:08,574 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:30:34,317 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:31:05,225 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:31:40,983 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:31:41,043 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:32:06,870 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:32:37,737 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:33:13,353 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:33:13,409 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:33:39,168 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:34:10,026 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:34:45,786 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 13:34:45,846 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:35:11,612 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 13:36:24,043 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 13:36:44,780 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:37:09,132 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 13:37:27,229 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:37:29,398 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:37:39,464 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 13:43:37,098 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 13:43:37,173 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 13:43:47,648 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 13:43:57,967 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 13:44:19,662 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:45:02,750 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:45:45,776 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:46:27,739 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 13:46:51,626 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 15:29:18,566 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 15:29:33,682 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:29:33,797 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:29:44,556 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 15:29:54,863 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 15:30:04,099 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-10 15:30:04,189 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:30:17,887 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 15:30:47,779 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:32:00,238 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 15:32:02,887 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 15:32:18,932 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 15:32:19,033 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:32:19,175 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:32:52,553 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-10 15:33:05,368 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 15:33:16,665 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-10 15:33:16,896 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-10 15:33:32,397 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:33:32,520 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:33:32,989 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-10 15:33:47,193 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-10 15:36:13,401 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 15:36:13,516 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:36:13,611 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:36:46,810 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-10 15:36:59,206 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 15:37:10,570 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-10 15:37:10,796 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-10 15:37:49,097 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:37:49,229 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:37:49,648 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-10 15:38:03,809 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-10 15:40:30,362 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:40:30,468 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:40:40,895 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 15:40:51,165 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 15:41:00,379 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 15:41:13,931 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 15:42:37,410 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 15:47:16,942 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-10 15:47:17,000 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:47:39,746 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:47:48,877 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 15:47:53,879 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 15:48:17,578 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:48:19,738 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-10 15:48:19,884 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-10 15:48:30,008 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-10 15:48:42,299 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-10 15:48:42,347 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:49:06,650 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:49:15,773 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-10 15:49:39,421 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:49:41,548 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-10 15:49:42,704 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-10 15:49:46,825 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-10 15:50:01,169 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-10 15:50:01,225 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:50:23,945 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:50:33,090 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-10 15:50:53,632 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-10 15:50:53,684 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:50:54,685 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-10 15:50:56,814 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-10 15:50:58,930 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-10 15:51:10,034 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-10 15:51:12,661 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 15:51:28,933 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:51:31,129 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:51:41,224 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 15:51:46,561 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-10 15:51:50,656 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-10 15:52:21,656 - feedzai_AM_Login -INFO - otp Captured
+2018-08-10 15:55:07,936 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:55:08,032 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:55:18,420 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 15:55:28,661 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 15:57:15,747 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 15:57:28,956 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 15:57:29,065 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 15:57:39,462 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 15:57:49,708 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 15:57:58,916 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-10 15:57:58,964 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:58:21,667 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:58:30,809 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-10 15:58:51,354 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-10 15:58:51,408 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:58:52,409 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-10 15:58:54,531 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-10 15:58:56,636 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-10 15:59:07,730 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-10 15:59:19,953 - feedzai_AM_Login -INFO - Rule#250c Selected
+2018-08-10 15:59:20,000 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 15:59:42,644 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 15:59:51,756 - feedzai_AM_Login -INFO - RULE 250c CHANGES SAVED
+2018-08-10 15:59:56,757 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-10 16:00:20,323 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:00:22,450 - feedzai_AM_Login -INFO - RULE 250c AMOUNT ENTERED
+2018-08-10 16:00:22,582 - feedzai_AM_Login -INFO - RULE 250c COUNT ENTERED
+2018-08-10 16:00:32,696 - feedzai_AM_Login -INFO - RULE 250c CHANGES COMPLETED
+2018-08-10 16:00:45,007 - feedzai_AM_Login -INFO - Rule#250e Selected
+2018-08-10 16:00:45,062 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:01:07,761 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-10 16:01:16,919 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-10 16:01:21,920 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-10 16:01:45,519 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:01:47,644 - feedzai_AM_Login -INFO - RULE 250e AMOUNT ENTERED
+2018-08-10 16:01:47,774 - feedzai_AM_Login -INFO - RULE 250e COUNT ENTERED
+2018-08-10 16:01:57,896 - feedzai_AM_Login -INFO - RULE 250e CHANGES COMPLETED
+2018-08-10 16:02:14,397 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:02:16,582 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:02:26,663 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 16:12:26,104 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 16:12:39,311 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:12:39,438 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:12:49,872 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 16:13:00,129 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 16:13:09,337 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:13:09,385 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:13:22,934 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:13:55,673 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:14:19,143 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:14:19,194 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:14:32,714 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:15:05,414 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:15:28,904 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:15:29,005 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:15:42,507 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:16:15,184 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:16:38,641 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:16:38,682 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:17:04,344 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:18:16,929 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 16:18:32,635 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:19:17,161 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 16:19:33,102 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:19:35,289 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:19:45,372 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 16:23:04,977 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 16:23:05,293 - feedzai_AM_Login -INFO - Rule1
+2018-08-10 16:23:20,239 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:23:20,355 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:23:31,312 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 16:23:41,678 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 16:23:41,679 - feedzai_AM_Login -INFO - Rule2
+2018-08-10 16:24:01,138 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:24:01,198 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:24:13,334 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:24:13,438 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:24:24,046 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-10 16:24:30,961 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:24:34,346 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-10 16:24:48,772 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:25:02,360 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:25:35,858 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:25:49,375 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:26:29,416 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:27:25,611 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:27:25,662 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:27:39,168 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-10 16:28:12,866 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:28:12,916 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:28:38,656 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:29:09,670 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:29:45,514 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:29:45,575 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:30:11,355 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:30:42,308 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:31:18,152 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:31:18,470 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:31:44,307 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:32:15,277 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:32:51,133 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-10 16:32:51,185 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:33:16,947 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-10 16:34:29,377 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-10 16:34:50,274 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-10 16:35:14,677 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-10 16:35:30,430 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-10 16:35:32,646 - feedzai_AM_Login -INFO - Password Entered
+2018-08-10 16:35:42,732 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-10 16:39:48,337 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-10 16:39:49,348 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 11:55:45,557 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 11:56:02,147 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 11:56:02,256 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 11:56:15,721 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 11:56:26,018 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 11:56:35,345 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-13 11:56:35,424 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 11:56:58,575 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 11:57:07,710 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-13 11:57:28,356 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-13 11:57:28,429 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 11:57:29,431 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 11:57:31,598 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 11:57:33,735 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 11:57:44,873 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-13 12:23:20,654 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 12:23:21,103 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 12:23:40,305 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:23:40,391 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:23:52,174 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:24:02,555 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:24:02,556 - feedzai_AM_Login -INFO - Rule2
+2018-08-13 12:24:22,099 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 12:24:22,162 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:24:52,057 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 12:25:34,409 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-13 12:25:47,196 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:26:05,328 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:26:07,499 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:26:17,566 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 12:26:24,077 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 12:26:28,175 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 12:27:08,895 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-13 12:27:15,232 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 12:27:25,872 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:27:25,948 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:27:26,382 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 12:27:40,574 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 12:28:00,239 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-13 12:28:04,351 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-13 12:28:18,630 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:28:18,709 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:28:29,286 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:28:39,586 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:29:11,398 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:29:24,639 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:29:24,715 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:29:35,149 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:29:45,434 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:29:54,622 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-13 12:29:54,692 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:30:08,260 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 12:30:38,312 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 12:31:50,904 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 12:31:53,554 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:32:09,827 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 12:32:09,946 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:32:10,023 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:32:43,669 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-13 12:32:56,245 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 12:33:07,609 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-13 12:33:07,818 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-13 12:33:23,290 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:33:23,372 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:33:23,823 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 12:33:38,040 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 12:33:57,725 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-13 12:34:01,212 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-13 12:34:01,749 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-13 12:34:17,298 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:34:17,381 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:34:27,830 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:34:38,131 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:34:47,428 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 12:35:01,025 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 12:36:24,606 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 12:41:04,301 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-13 12:41:04,385 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:41:27,301 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 12:41:36,476 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 12:41:41,477 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 12:42:05,185 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:42:07,317 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-13 12:42:07,454 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-13 12:42:17,571 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-13 12:42:29,828 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-13 12:42:29,857 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:42:52,698 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 12:43:01,828 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-13 12:45:58,706 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 12:45:58,842 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 12:46:13,736 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:46:13,812 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:46:24,392 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:46:34,615 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:46:34,615 - feedzai_AM_Login -INFO - Rule2
+2018-08-13 12:46:54,061 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 12:46:54,094 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:47:23,999 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 12:48:06,268 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-13 12:48:19,062 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:48:37,108 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:48:39,349 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:48:49,461 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 12:48:55,243 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 12:48:59,359 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 12:49:40,090 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-13 12:49:46,372 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 12:49:57,176 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:49:57,250 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:49:57,792 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 12:50:11,959 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 12:50:31,664 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-13 12:50:35,645 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-13 12:50:49,324 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:50:49,396 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:50:59,993 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:51:10,276 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:51:42,016 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:51:55,275 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:51:55,377 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:52:05,778 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:52:16,110 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:52:25,395 - feedzai_AM_Login -INFO - Rule#007a Selected
+2018-08-13 12:52:25,464 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 12:52:39,038 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 12:53:09,009 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 12:54:21,557 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 12:54:24,184 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:54:40,088 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 12:54:40,231 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:54:40,295 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:55:15,383 - feedzai_AM_Login -INFO - Moved to Payment Page
+2018-08-13 12:55:27,837 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 12:55:39,196 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-13 12:55:39,388 - feedzai_AM_Login -INFO - Logged out of Simulator
+2018-08-13 12:55:55,037 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:55:55,112 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:55:55,451 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 12:56:09,615 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 12:56:29,173 - feedzai_AM_Login -INFO - Transaction Viewed
+2018-08-13 12:56:32,632 - feedzai_AM_Login -INFO - Rule #007a Triggered
+2018-08-13 12:56:33,156 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-13 12:56:49,360 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:56:49,436 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:56:59,831 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:57:10,156 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:57:19,405 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 12:57:49,165 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 12:59:12,715 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 12:59:15,349 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 12:59:28,570 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 12:59:28,655 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 12:59:39,059 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 12:59:49,380 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 12:59:58,667 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-13 12:59:58,737 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:00:21,661 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:00:30,810 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-13 13:00:51,491 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-13 13:00:51,564 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:00:52,564 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 13:00:54,717 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 13:00:56,889 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 13:01:08,040 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-13 13:01:20,469 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-13 13:01:20,542 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:01:43,493 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:01:52,659 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 13:01:57,659 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 13:02:21,466 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:02:23,636 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-13 13:02:23,794 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-13 13:02:33,940 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-13 13:02:46,253 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-13 13:02:46,346 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:03:09,349 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:03:18,512 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-13 13:03:42,196 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:03:44,391 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-13 13:03:45,528 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-13 13:03:49,697 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-13 13:04:02,106 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-13 13:04:02,245 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:04:25,114 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:04:34,254 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-13 13:04:54,827 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-13 13:04:54,893 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:04:55,894 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 13:04:58,060 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 13:05:00,212 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 13:05:11,370 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-13 13:05:14,297 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 13:05:31,021 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:05:33,192 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:05:43,253 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 13:10:11,393 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:10:11,485 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:10:21,878 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 13:10:32,202 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 13:12:20,356 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 13:12:33,636 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:12:33,747 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:12:44,149 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 13:12:54,494 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 13:13:03,830 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-13 13:13:03,898 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:13:26,867 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:13:36,017 - feedzai_AM_Login -INFO - RULE 250b CHANGES SAVED
+2018-08-13 13:13:56,714 - feedzai_AM_Login -INFO - RULE 250b LIMIT SELECTED
+2018-08-13 13:13:56,785 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:13:57,786 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 13:13:59,933 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 13:14:02,069 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 13:14:13,215 - feedzai_AM_Login -INFO - RULE 250b CHANGES COMPLETED
+2018-08-13 13:14:26,728 - feedzai_AM_Login -INFO - Rule#250c Selected
+2018-08-13 13:14:26,821 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:14:49,748 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:14:58,899 - feedzai_AM_Login -INFO - RULE 250c CHANGES SAVED
+2018-08-13 13:15:03,899 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 13:15:27,693 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:15:29,862 - feedzai_AM_Login -INFO - RULE 250c AMOUNT ENTERED
+2018-08-13 13:15:30,013 - feedzai_AM_Login -INFO - RULE 250c COUNT ENTERED
+2018-08-13 13:15:40,158 - feedzai_AM_Login -INFO - RULE 250c CHANGES COMPLETED
+2018-08-13 13:15:52,493 - feedzai_AM_Login -INFO - Rule#250e Selected
+2018-08-13 13:15:52,590 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:16:15,459 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:16:24,617 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-13 13:16:29,617 - feedzai_AM_Login -INFO - RULE 250e CHANGES SAVED
+2018-08-13 13:16:53,344 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:16:55,523 - feedzai_AM_Login -INFO - RULE 250e AMOUNT ENTERED
+2018-08-13 13:16:55,596 - feedzai_AM_Login -INFO - RULE 250e COUNT ENTERED
+2018-08-13 13:17:05,673 - feedzai_AM_Login -INFO - RULE 250e CHANGES COMPLETED
+2018-08-13 13:17:17,984 - feedzai_AM_Login -INFO - Rule#250g Selected
+2018-08-13 13:17:18,075 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:17:40,843 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 13:17:50,009 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-13 13:17:55,009 - feedzai_AM_Login -INFO - RULE 250g CHANGES SAVED
+2018-08-13 13:18:18,805 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:18:20,970 - feedzai_AM_Login -INFO - RULE 250g AMOUNT ENTERED
+2018-08-13 13:18:21,111 - feedzai_AM_Login -INFO - RULE 250g COUNT ENTERED
+2018-08-13 13:18:31,272 - feedzai_AM_Login -INFO - RULE 250g CHANGES COMPLETED
+2018-08-13 13:18:48,062 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:18:50,273 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:19:00,337 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 13:29:52,835 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 13:30:07,093 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:30:07,220 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:30:17,837 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 13:30:28,162 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 13:30:37,401 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:30:37,468 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:30:51,152 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:31:24,063 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:31:47,613 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:31:47,672 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:32:01,218 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:32:33,977 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:32:57,709 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:32:57,755 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:33:11,302 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:33:44,058 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:34:07,718 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:34:07,803 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:34:33,688 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:35:46,230 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 13:36:02,007 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:36:46,758 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 13:37:04,831 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:37:07,062 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:37:17,144 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 13:41:46,251 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:41:46,323 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:41:56,794 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 13:42:07,104 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 13:42:21,512 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:42:35,079 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:43:08,677 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:43:22,267 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:44:02,318 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:44:58,537 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:44:58,634 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:45:12,107 - feedzai_AM_Login -INFO - Variable Details Updated
+2018-08-13 13:45:45,784 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:45:45,845 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:46:11,627 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:46:42,614 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:47:18,429 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:47:18,533 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:47:44,327 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:48:15,497 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:48:51,314 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:48:51,411 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:49:17,230 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:49:48,284 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:50:24,094 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 13:50:24,198 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:50:49,954 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 13:52:02,406 - feedzai_AM_Login -INFO - Rule Changes Saved Successfully
+2018-08-13 13:52:23,247 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 13:52:47,633 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 13:53:04,471 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:53:06,702 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:53:16,900 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 13:58:57,071 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 13:58:57,142 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 13:59:07,678 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 13:59:17,993 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 13:59:39,899 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:00:23,245 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:01:06,603 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:01:48,950 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:02:12,976 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 14:30:23,938 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 14:30:39,105 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:30:39,187 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:31:26,319 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 14:31:46,673 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:31:48,820 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:31:58,895 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:32:04,714 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 14:32:08,779 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 14:32:39,559 - feedzai_AM_Login -INFO - otp Captured
+2018-08-13 14:33:06,275 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 14:33:24,381 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:33:26,561 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:33:36,621 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:33:41,904 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 14:33:46,017 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 14:34:16,822 - feedzai_AM_Login -INFO - otp Captured
+2018-08-13 14:34:43,506 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 14:35:48,898 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 14:35:49,047 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 14:36:05,832 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:36:05,915 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:36:16,364 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 14:36:26,668 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 14:36:26,669 - feedzai_AM_Login -INFO - Rule2
+2018-08-13 14:36:46,212 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 14:36:46,276 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:37:16,274 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 14:37:58,619 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-13 14:38:11,361 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 14:38:28,418 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:38:30,622 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:38:40,691 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:38:46,108 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 14:38:50,215 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 14:39:30,811 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-13 14:39:37,036 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 14:39:47,527 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:39:47,610 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:39:47,973 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 14:40:02,163 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 14:40:21,881 - feedzai_AM_Login -INFO - LoadMoney Transaction Viewed
+2018-08-13 14:40:42,722 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:40:44,845 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:40:54,911 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:42:41,745 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 14:42:41,855 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 14:42:57,694 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:42:57,771 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:43:08,210 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 14:43:18,532 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 14:43:18,533 - feedzai_AM_Login -INFO - Rule2
+2018-08-13 14:43:38,082 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 14:43:38,163 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:44:08,112 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 14:44:50,374 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-13 14:45:03,081 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 14:45:20,865 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:45:23,100 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:45:33,177 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:45:38,609 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 14:45:42,721 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 14:53:30,197 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 14:53:30,488 - feedzai_AM_Login -INFO - Rule1
+2018-08-13 14:53:48,853 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:53:48,942 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:53:59,461 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 14:54:09,777 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 14:54:09,778 - feedzai_AM_Login -INFO - Rule2
+2018-08-13 14:54:29,215 - feedzai_AM_Login -INFO - RuleSelected
+2018-08-13 14:54:29,286 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 14:54:59,204 - feedzai_AM_Login -INFO - Alert Type Selected
+2018-08-13 14:55:41,550 - feedzai_AM_Login -INFO - CheckBox is Selected for 39c
+2018-08-13 14:55:54,264 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 14:56:11,530 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:56:13,770 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:56:23,841 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 14:56:29,331 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 14:56:33,468 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 14:57:13,810 - feedzai_AM_Login -INFO - Transaction Completed
+2018-08-13 14:57:29,460 - feedzai_AM_Login -INFO - RRN Captured
+2018-08-13 14:57:40,725 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 14:57:51,159 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 14:57:51,237 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 14:57:51,587 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 14:58:05,786 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 15:00:24,271 - feedzai_AM_Login -INFO - Browser Opened
+2018-08-13 15:00:42,300 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 15:00:42,391 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 15:00:52,833 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 15:01:03,108 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 15:01:12,430 - feedzai_AM_Login -INFO - Rule#250 Selected
+2018-08-13 15:01:12,507 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:01:35,497 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 15:01:44,637 - feedzai_AM_Login -INFO - RULE 250 CHANGES SAVED
+2018-08-13 15:02:05,166 - feedzai_AM_Login -INFO - RULE 250 LIMIT SELECTED
+2018-08-13 15:02:05,246 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:02:06,247 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 15:02:08,414 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 15:02:10,539 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 15:02:21,711 - feedzai_AM_Login -INFO - RULE 250 CHANGES COMPLETED
+2018-08-13 15:02:34,074 - feedzai_AM_Login -INFO - Rule#250a Selected
+2018-08-13 15:02:34,175 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:02:57,002 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 15:03:06,154 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 15:03:11,156 - feedzai_AM_Login -INFO - RULE 250a CHANGES SAVED
+2018-08-13 15:03:34,891 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:03:37,026 - feedzai_AM_Login -INFO - RULE 250A AMOUNT ENTERED
+2018-08-13 15:03:37,163 - feedzai_AM_Login -INFO - RULE 250A COUNT ENTERED
+2018-08-13 15:03:47,337 - feedzai_AM_Login -INFO - RULE 250A CHANGES COMPLETED
+2018-08-13 15:03:59,645 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-13 15:03:59,751 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:04:22,600 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 15:04:31,765 - feedzai_AM_Login -INFO - RULE 250d CHANGES SAVED
+2018-08-13 15:04:55,477 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:04:57,630 - feedzai_AM_Login -INFO - Rule#250d AMOUNT SELECTED
+2018-08-13 15:04:58,784 - feedzai_AM_Login -INFO - Rule#250d COUNT SELECTED
+2018-08-13 15:05:02,953 - feedzai_AM_Login -INFO - Rule#250d CHANGES COMPLETED
+2018-08-13 15:05:15,310 - feedzai_AM_Login -INFO - Rule#250d Selected
+2018-08-13 15:05:15,418 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:05:38,275 - feedzai_AM_Login -INFO - Alert Tye Selected
+2018-08-13 15:05:47,447 - feedzai_AM_Login -INFO - RULE 250f CHANGES SAVED
+2018-08-13 15:06:08,090 - feedzai_AM_Login -INFO - RULE 250f LIMIT SELECTED
+2018-08-13 15:06:08,182 - feedzai_AM_Login -INFO - CheckBox is Selected
+2018-08-13 15:06:09,183 - feedzai_AM_Login -INFO - LIMIT CHECKBOX VERIFIED
+2018-08-13 15:06:11,323 - feedzai_AM_Login -INFO - AMOUNT LIMIT SET
+2018-08-13 15:06:13,452 - feedzai_AM_Login -INFO - COUNT LIMIT SET
+2018-08-13 15:06:24,609 - feedzai_AM_Login -INFO - RULE 250f CHANGES COMPLETED
+2018-08-13 15:06:27,546 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE
+2018-08-13 15:06:44,878 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 15:06:47,079 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 15:06:57,144 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 15:07:02,597 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 15:07:06,722 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 15:07:37,523 - feedzai_AM_Login -INFO - otp Captured
+2018-08-13 15:08:04,255 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 15:08:22,131 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 15:08:24,324 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 15:08:34,386 - feedzai_AM_Login -INFO - Clicked on SignIn
+2018-08-13 15:08:39,677 - feedzai_AM_Login -INFO - OTP Entered
+2018-08-13 15:08:43,796 - feedzai_AM_Login -INFO - Welcome to Agent HomePage
+2018-08-13 15:09:14,588 - feedzai_AM_Login -INFO - otp Captured
+2018-08-13 15:09:41,279 - feedzai_AM_Login -INFO - Agent Logout 
+2018-08-13 15:09:53,714 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 15:09:53,790 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 15:09:54,158 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI ALERT MANAGER
+2018-08-13 15:10:08,315 - feedzai_AM_Login -INFO - Clicked on Search Page
+2018-08-13 15:10:27,889 - feedzai_AM_Login -INFO - BillPayment Transaction Viewed
+2018-08-13 15:10:31,849 - feedzai_AM_Login -INFO - LOGGED OUT OF FEEDZAI ALERT MANAGER
+2018-08-13 15:10:45,384 - feedzai_AM_Login -INFO - UserName Entered
+2018-08-13 15:10:45,460 - feedzai_AM_Login -INFO - Password Entered
+2018-08-13 15:10:55,876 - feedzai_AM_Login -INFO - LOGGED INTO FEEDZAI PULSE
+2018-08-13 15:11:06,185 - feedzai_AM_Login -INFO - Clicked on Rule
+2018-08-13 15:12:54,075 - feedzai_AM_Login -INFO - LOGOUT OF FEEDZAI PULSE

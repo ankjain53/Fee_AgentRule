@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [suite 1]">
+  <listeners>
+    <listener class-name="com.ril.Feedzai.Utility.RetryListenerClass"/>
+    <listener class-name="com.ril.Feedzai.Utility.ListnerImpl"/>
+  </listeners>
+  <test thread-count="5" name="Feedzai Automation1(failed)">
+    <classes>
+      <class name="com.ril.FeedzaiTestScript.Feedzai_Rule250_250a_250d_250f_Agent">
+        <methods>
+          <include name="PerformAgentTranc"/>
+          <include name="endReport"/>
+          <include name="TestDataSetup"/>
+        </methods>
+      </class> <!-- com.ril.FeedzaiTestScript.Feedzai_Rule250_250a_250d_250f_Agent -->
+      <class name="com.ril.FeedzaiTestScript.Feedzai_Rule250b_250c_250e_250g_Agent">
+        <methods>
+          <include name="endReport"/>
+          <include name="TestDataSetup"/>
+          <include name="PerformAgentTranc"/>
+          <include name="PulseRevert_250b"/>
+        </methods>
+      </class> <!-- com.ril.FeedzaiTestScript.Feedzai_Rule250b_250c_250e_250g_Agent -->
+      <class name="com.ril.FeedzaiTestScript.Feedzai_Rule160i_160j_160m_160l_Outward">
+        <methods>
+          <include name="endReport"/>
+          <include name="TestDataSetup"/>
+          <include name="AM_Verify_160a_160aa_160b_160ba"/>
+        </methods>
+      </class> <!-- com.ril.FeedzaiTestScript.Feedzai_Rule160i_160j_160m_160l_Outward -->
+      <class name="com.ril.FeedzaiTestScript.Feedzai_Rule160a_160aa_160b_160ba_Outward">
+        <methods>
+          <include name="endReport"/>
+          <include name="TestDataSetup"/>
+          <include name="AM_Verify_160a_160aa_160b_160ba"/>
+        </methods>
+      </class> <!-- com.ril.FeedzaiTestScript.Feedzai_Rule160a_160aa_160b_160ba_Outward -->
+    </classes>
+  </test> <!-- Feedzai Automation1(failed) -->
+</suite> <!-- Failed suite [suite 1] -->

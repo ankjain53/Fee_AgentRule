@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite 1" verbose="1">
+	<listeners>
+		<listener
+			class-name="com.ril.Feedzai.Utility.RetryListenerClass" />
+		<listener class-name="com.ril.Feedzai.Utility.ListnerImpl" />
+	</listeners>
+	<test name="Feedzai Automation1" preserve-order="true">
+	
+	
+		<classes>
+		<!--  	<class
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule116_118_119_120_121_019_Agent" /> -->
+
+			<class name="com.ril.FeedzaiTestScript.Feedzai_Rule039c_Agent" />      
+
+
+             <class 
+                   name="com.ril.FeedzaiTestScript.Feedzai_Rule007a_Purchase"/>  
+			<class
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule250_250a_250d_250f_Agent" /> 
+			<class
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule250b_250c_250e_250g_Agent" />
+             
+                   
+	          <class
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule160a_160aa_160b_160ba_Outward" />
+					<class
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule160i_160j_160m_160l_Outward" /> 
+
+
+
+
+
+			
+		<!-- 		<class name="com.ril.FeedzaiTestScript.MyTest"/> <class name="com.ril.FeedzaiTestScript.Feedzai_Rule039a_039d_039f_200_165_Consumer"/> 
+				<class name="com.ril.FeedzaiTestScript.Feedzai_Rule039f_027f_146_Merchant"/> 
+				<class name="com.ril.FeedzaiTestScript.Feedzai_Rule039b_067b_027e_Merchant"/> 
+				<class name="com.ril.FeedzaiTestScript.Feedzai_Rule029_Merchant"/> <class 
+				name="com.ril.FeedzaiTestScript.Feedzai_Rule155c_204_168_168a_Consumer"/> 
+				<class name="com.ril.FeedzaiTestScript.Feedzai_Rule040_067a_108a_166_Consumer"/>  -->
+
+		</classes> 
+	</test>
+</suite> 

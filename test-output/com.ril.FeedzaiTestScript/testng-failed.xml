@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [com.ril.FeedzaiTestScript]">
+  <test thread-count="5" verbose="5" name="test1(failed)">
+    <groups>
+      <run>
+        <include name="AgentRule"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.ril.FeedzaiTestScript.Feedzai_Rule039c_Agent">
+        <methods>
+          <include name="PulseRevert_039c"/>
+          <include name="Validate_39c"/>
+        </methods>
+      </class> <!-- com.ril.FeedzaiTestScript.Feedzai_Rule039c_Agent -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [com.ril.FeedzaiTestScript] -->
